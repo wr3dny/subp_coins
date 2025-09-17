@@ -1,3 +1,12 @@
+h3 {
+  color: darkblue;
+}
+
 * {
-  color: blue;
+  background-image: url("../src/Coins.jpg");
+  background-size: cover;
+}
+
+.tableClass {
+  color: darkgreen;
 }
